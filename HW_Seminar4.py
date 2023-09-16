@@ -4,7 +4,6 @@ def newset(num):
         new_set.add(int(input("Введите число для множества: ")))
     return new_set
 
-
 n = int(input("Введите кол-во элементов первого множества: "))
 n_set = newset(n)
 
